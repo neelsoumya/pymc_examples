@@ -13,6 +13,8 @@ pip3 install -r requirements.txt
 
 ## Resources
 
+https://docs.pymc.io/en/v3/pymc-examples/examples/getting_started.html
+
 https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-binomial-regression.html
 
 https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-logistic.html
