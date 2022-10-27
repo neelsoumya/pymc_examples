@@ -17,6 +17,8 @@ https://docs.pymc.io/en/v3/pymc-examples/examples/getting_started.html
 
 https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-binomial-regression.html
 
+https://turing.ml/dev/tutorials/02-logistic-regression/
+
 https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-logistic.html
 
 https://stats.stackexchange.com/questions/281769/how-is-logistic-regression-related-to-bernoulli-distribution
