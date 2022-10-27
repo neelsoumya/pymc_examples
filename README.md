@@ -23,6 +23,10 @@ https://docs.pymc.io/en/v3/pymc-examples/examples/generalized_linear_models/GLM-
 
 https://stats.stackexchange.com/questions/281769/how-is-logistic-regression-related-to-bernoulli-distribution
 
+## Books
+
+https://www.google.co.uk/books/edition/Bayesian_Analysis_with_Python/1Z2BDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover
+
 ## Contact
 
 Soumya Banerjee
